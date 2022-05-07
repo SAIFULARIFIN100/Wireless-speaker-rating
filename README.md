@@ -1,7 +1,7 @@
 # Welcome to my Project
 # Wireless-speaker-rating
 Wireless speakers are loudspeakers that receive audio signals using radio frequency (RF) waves rather than over audio cables. The two most popular RF frequencies that support audio transmission to wireless loudspeakers include a variation of WiFi, while others depend on Bluetooth to transmit audio data to the receiving speaker.
-i this project 
+In this data, some interesting data are presented so that I am interested in taking the data.
 
 
 ## dataset from :
