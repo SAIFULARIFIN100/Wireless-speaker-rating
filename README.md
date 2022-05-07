@@ -9,10 +9,10 @@ cover image credit: amazon.com
 
 contains data model Wirelessspeaker, price, launch, overall, relaxing, party, movie     
 
--find Priciest 
--wireless speakers model
--Cheapiest wireless speakers model,
--the cheapest model available is Baidu Xiaodu Smart Speaker Ultimate Edition and price is 20
--the costiest model available is Bang & Olufsen Beosound Balance and price is 2250
--purchases every year and month 
--etc
+- find Priciest 
+- wireless speakers model
+- Cheapiest wireless speakers model,
+- the cheapest model available is Baidu Xiaodu Smart Speaker Ultimate Edition and price is 20
+- the costiest model available is Bang & Olufsen Beosound Balance and price is 2250
+- purchases every year and month 
+- etc
